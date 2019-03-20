@@ -1,0 +1,9 @@
+GRS/BTC: :1.6 
+VIA/BTC: :2.1
+GXS/BTC: :1.35 
+NAS/BTC: :1.4
+CVC/BTC: :1.25 
+MDA/BTC: :1.35 
+ARN/BTC: :1.5 
+MCO/BTC: :1.18 
+LUN/BTC: :1.5 
