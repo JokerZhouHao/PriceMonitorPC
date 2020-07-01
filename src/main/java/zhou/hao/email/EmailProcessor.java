@@ -38,7 +38,7 @@ public class EmailProcessor {
         // 得到邮差对象
         Transport transport = session.getTransport();
         // 连接自己的邮箱账户
-        transport.connect("774941077@qq.com", "gruwcvextybqbdeg");// 密码为QQ邮箱开通的stmp服务后得到的客户端授权码
+        transport.connect("XXXX@qq.com", "XXXX");// 密码为QQ邮箱开通的stmp服务后得到的客户端授权码
         // 发送邮件
         transport.sendMessage(message, message.getAllRecipients());
         transport.close();
